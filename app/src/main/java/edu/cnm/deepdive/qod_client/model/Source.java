@@ -5,6 +5,7 @@ import java.util.Date;
 import java.util.UUID;
 
 public class Source {
+
   private UUID id;
   private Date created;
   private String name;
